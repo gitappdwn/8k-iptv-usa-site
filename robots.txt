@@ -1,0 +1,9 @@
+# Robots.txt for 8k iptv usa
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://8kiptvusa.shop/sitemap.xml
